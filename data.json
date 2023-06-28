@@ -1,0 +1,27 @@
+{
+    "students":
+    {
+        "student1":
+        {
+            "name":"ABC",
+            "rollnumber":1,
+            "class":1,
+            "phones":{
+                "num1":"+910000000000",
+                "num2":"+910000000000"
+            }
+        },
+        "student2":
+        {
+            "name":"DEF",
+            "rollnumber":2,
+            "class":2
+        },
+        "student3":
+        {
+            "name":"EFG",
+            "rollnumber":3,
+            "class":3
+        }
+    }
+}
